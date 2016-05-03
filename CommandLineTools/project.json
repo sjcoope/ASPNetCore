@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0-*",
+  "description": "Sample Demo Project - Built without visual studio!",
+  "commands": {},
+  "frameworks": {
+    "dnx451": { },
+    "dnxcore50": {
+      "dependencies": {
+        "System.Console": "4.0.0-0~",
+        "Microsoft.CSharp": "4.0.0-0~"
+      }
+    }
+  }
+}
